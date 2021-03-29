@@ -18,3 +18,8 @@ CrowdZone is a project that focuses on analyzing the density where it aims to co
 Two different image processing models have been evaluated during the process. Aims behind those models training are person class detection and their location detection for density maps. Consequently, different convolutional neural network models have been developed either for the population density map and for the determination of interest points. With the developed models, the crowd countings and density maps  of highly-populated squares in Istanbul were predicted.
 
 MAE Metric : 0.44 (CNN Model)
+
+References :
+* For Crowd Counting CNN model : Crowd Counting Github Project by Harrianto Sunaryan, Iyas Yustira, Muhammad Farrel M, Rinda Nur Hafizha
+
+* For YOLOV4 model: İstanbul Poi Github Project of Enis Getmez
