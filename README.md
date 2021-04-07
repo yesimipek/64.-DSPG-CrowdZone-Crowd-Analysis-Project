@@ -19,6 +19,13 @@ Two different image processing models have been evaluated during the process. Ai
 
 MAE Metric : 0.44 (CNN Model)
 
+İstiklal Street --
+Aprox. real number of people : 49
+Predicted number of people : 41.48
+<img width="686" alt="Screen Shot 2021-04-07 at 09 13 51" src="https://user-images.githubusercontent.com/75167252/113819183-a1705100-9781-11eb-9f28-9062d8b68277.png">
+ 
+
+
 References :
 * For Crowd Counting CNN model : Crowd Counting Github Project by Harrianto Sunaryan, Iyas Yustira, Muhammad Farrel M, Rinda Nur Hafizha
 
